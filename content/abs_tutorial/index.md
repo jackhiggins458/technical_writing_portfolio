@@ -7,24 +7,19 @@
 ![neural network meme](assets/meme.jpeg)
 
 
+At the ABS, I was an active member of the Machine Learning (ML) Community of Practice, a group open to all staff interested in learning about ML. As the organisation increased its use of ML methods, we had an influx of staff joining the community, many without prior ML experience. To help upskill new members, three colleagues and I organised a series of introductory ML talks and tutorials.
 
-At the ABS, I was an active member of the Machine Learning (ML) Community of Practice, a group open to all staff interested in learning about ML. At the time, there was an increase in the use of ML methods within the organisation, and so we had an influx of staff joining the community, many of whom didn't have much experience with ML. To help upskill new community members, three colleagues and I organised a series of introductory ML talks and tutorials. 
+While my colleagues focused on theoretical presentations, I wanted to facilitate a more interactive learning experience. I created a series of hands-on tutorials in Jupyter Lab that progressively introduced attendees to computational notebook environments, programming fundamentals in R, and ultimately implementing a basic neural network.
 
-While my colleagues worked on talks, I wanted to facilitate a more interactive learning experience. To do so, I created a series of tutorials in a Jupyter Lab environment that aimed to introduce attendees to:
+I designed these tutorials to:
 
-- Navigating computational notebook environments.
-- Programming fundamentals in the R programming language.
-- Implementing and testing a very basic neural network.
+- Be approachable for staff with limited programming background while containing enough depth to engage more experienced members.
+- Build progressively on my colleagues' theoretical talks, culminating in the rewarding task of implementing a working neural network.
+- Run interactively on [Binder](https://mybinder.org/) in a group setting with facilitator support.
 
-These tutorials were:
+I facilitated these tutorials in 2021 and 2022 for approximately 30 attendees, iterating on the materials based on participant feedback. The tutorials became a core part of the Community of Practice's onboarding process for new members interested in hands-on ML experience.
 
-- Designed to be approachable for staff with limited background in programming and machine learning, whilst also containing enough depth to engage more experienced members.
-- Sequenced to follow after my colleagues' more theoretical talks, progressively building up to a rewarding capstone task — implementing a neural network in R.
-- Written in Markdown and R code using Jupyter Lab.
-- Intended to be followed interactively on [Binder](https://mybinder.org/) in a group setting, with the support of a more experienced facilitator.
-- Updated multiple times after seeking feedback from participants.
-
-I facilitated these tutorials once in 2021 and again in 2022, and received a significant amount of positive (as well as constructive) feedback from participants about their experience.
+---
 
 [^1]: Unfortunately, Binder sometimes takes a long while to launch (and occasionally fails to launch at all). If you're having trouble launching the interactive Binder, try viewing the tutorial [on GitHub instead](https://github.com/jackhiggins458/Neural_Network_Tutorial/blob/main/notebooks/0_Welcome.ipynb). Please note however that the GitHub preview of the notebooks aren't interactive, and they have a few issues rendering the content accurately.
 
