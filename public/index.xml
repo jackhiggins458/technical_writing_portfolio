@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jack&#39;s Portfolio 🌱📗</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Jack&#39;s Portfolio 🌱📗</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/abs_methodology_article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abs_methodology_article/</guid>
+      <description>&lt;h1 id=&#34;exporter-analysis-methodology&#34;&gt;Exporter analysis methodology&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this piece: &lt;a href=&#34;https://www.abs.gov.au/methodologies/characteristics-australian-exporters-methodology/2019-20&#34;&gt;on the Australian Bureau of Statistics website&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;While I made time to work on learning material for the Machine Learning Community of Practice where I could, my day to day role as a data scientist at the Australian Bureau of Statistics more often involved analysis, reporting and documentation.&lt;/p&gt;
+&lt;p&gt;In one project, I was responsible for developing and documenting a new methodology for analysing Australian exporters. While in this case &lt;a href=&#34;https://www.abs.gov.au/statistics/economy/international-trade/characteristics-australian-exporters/latest-release&#34;&gt;the actual analysis of the data&lt;/a&gt; was left to subject matter experts in a different team, I built the data pipelines, designed the methodology and wrote the associated methodology report.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/abs_tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abs_tutorial/</guid>
+      <description>&lt;h1 id=&#34;an-introduction-to-neural-networks&#34;&gt;An introduction to neural networks&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this piece:  &lt;a href=&#34;https://mybinder.org/v2/gh/jackhiggins458/Neural_Network_Tutorial/HEAD?labpath=notebooks%2F0_Welcome.ipynb&#34;&gt;in this Binder (interactive)&lt;/a&gt;. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;neural network meme&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/abs_tutorial/assets/meme.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;At the ABS, I was an active member of the Machine Learning (ML) Community of Practice, a group open to all staff interested in learning about ML. At the time, there was an increase in the use of ML methods within the organisation, and so we had a influx of staff joining the community, many of whom didn&amp;rsquo;t have much experience with ML. To help upskill new community members, three colleagues and I organised a series of introductory ML talks and tutorials.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/fastmail_customer_comms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fastmail_customer_comms/</guid>
+      <description>&lt;h1 id=&#34;dns-record-change-guide&#34;&gt;DNS record change guide&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this portfolio piece: on this page.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I previously worked in the support at &lt;a href=&#34;https://www.fastmail.com/&#34;&gt;Fastmail&lt;/a&gt;, where a big part of my role was ensuring customers had access to accurate, timely and accessible information about Fastmail services and products. While Fastmail is primarily an email service, thousands of customers also use Fastmail to host websites.&lt;/p&gt;
+&lt;p&gt;At one point, Fastmail engineers were making some configuration changes to the networks responsible for hosting user websites, which would cause the IP addresses that customers were using to host their websites on to change. While we could manage the required changes internally for users hosting their DNS records at Fastmail, users that were hosting their DNS records externally would need to make changes on their end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/fastmail_help_article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fastmail_help_article/</guid>
+      <description>&lt;h1 id=&#34;fastmail-help-article-custom-swipes&#34;&gt;Fastmail Help Article: Custom Swipes&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this piece: &lt;a href=&#34;https://www.fastmail.help/hc/en-us/articles/4763978773007-Custom-swipes&#34;&gt;in the Fastmail Help Center&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;While working at Fastmail, I was also responsible for documenting features in our user-facing help center/knowledge base.&lt;/p&gt;
+&lt;p&gt;In one instance, I documented the &amp;ldquo;Custom swipes&amp;rdquo; feature. This article demonstrates nicely how I like to approach documentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start with a brief &lt;strong&gt;explanation&lt;/strong&gt; of the what, who and why:
+&lt;ul&gt;
+&lt;li&gt;What are &amp;ldquo;custom swipes&amp;rdquo;?&lt;/li&gt;
+&lt;li&gt;Who is this relevant to?&lt;/li&gt;
+&lt;li&gt;Why might you use them?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make the &lt;strong&gt;how-to&lt;/strong&gt; highly visible and clear yet concise.&lt;/li&gt;
+&lt;li&gt;Provide additional &lt;strong&gt;reference&lt;/strong&gt; material for those interested in learning more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this article, I started with a brief explanation of what custom swipes are (a feature that &amp;ldquo;allow(s) you to quickly take actions on emails in your message list&amp;rdquo;), who it&amp;rsquo;s relevant to (people who use Fastmail on mobile/touch screen devices) and why you might use them (to customise your workflow/take quick action on messages in the message list). Providing an explanation upfront frames the article from the start, and allows a reader to quickly decide if the information in the article will be relevant to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/uni_tpm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/uni_tpm/</guid>
+      <description>&lt;h1 id=&#34;the-proof-is-in-the-pudding-probability&#34;&gt;The proof is in the &lt;del&gt;pudding&lt;/del&gt; probability&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this piece: &lt;a href=&#34;assets/tpm.pdf&#34;&gt;in this PDF&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/uni_tpm/assets/alien_graph.png#center&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I wrote this essay for an assignment submission in my final semester of my maths undergraduate degree. At the time, I was interested in learning more about graph theory and different types of proofs. I decided to write a short piece explaining the probabilistic method, a non-constructive proof method used occasionally in combinatorics and graph theory.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

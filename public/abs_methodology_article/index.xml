@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abs_methodology_articles on Jack&#39;s Portfolio 🌱📗</title>
+    <link>//localhost:1313/abs_methodology_article/</link>
+    <description>Recent content in Abs_methodology_articles on Jack&#39;s Portfolio 🌱📗</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/abs_methodology_article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/abs_methodology_article/methodology_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/abs_methodology_article/methodology_report/</guid>
+      <description>&lt;h1 id=&#34;exporter-analysis-methodology&#34;&gt;Exporter analysis methodology&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this piece: &lt;a href=&#34;https://www.abs.gov.au/methodologies/characteristics-australian-exporters-methodology/2019-20&#34;&gt;on the Australian Bureau of Statistics website&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;While I made time to work on learning material for the Machine Learning Community of Practice (see my &lt;a href=&#34;&#34;&gt;Interactive machine learning tutorial&lt;/a&gt; piece) where I could, my day to day role as a data scientist at the Australian Bureau of Statistics more often involved analysis, reporting and documentation.&lt;/p&gt;
+&lt;p&gt;In one project, I was responsible for developing and documenting a new methodology for analysing Australian exporters. While in this case &lt;a href=&#34;https://www.abs.gov.au/statistics/economy/international-trade/characteristics-australian-exporters/latest-release&#34;&gt;the actual analysis of the data&lt;/a&gt; was left to subject matter experts in a different team, I built the data pipelines, designed the methodology and wrote the associated methodology report.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

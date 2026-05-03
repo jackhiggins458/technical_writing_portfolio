@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fastmail_customer_comms on Jack&#39;s Portfolio 🌱📗</title>
+    <link>//localhost:1313/fastmail_customer_comms/</link>
+    <description>Recent content in Fastmail_customer_comms on Jack&#39;s Portfolio 🌱📗</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/fastmail_customer_comms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/fastmail_customer_comms/customer_comms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fastmail_customer_comms/customer_comms/</guid>
+      <description>&lt;h1 id=&#34;dns-record-change-guide&#34;&gt;DNS record change guide&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Where to view this portfolio piece: on this page.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;As mentioned in &lt;a href=&#34;&#34;&gt;the previous piece&lt;/a&gt;, I currently work at &lt;a href=&#34;https://www.fastmail.com/&#34;&gt;Fastmail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thousands of customers use Fastmail to host one or more simple static websites. Fastmail were planning to make some changes to their internal networks, which would cause the IP addresses that customers used to host their websites on Fastmail to change. We could change the IP addresses automatically for customers hosting their DNS records at Fastmail, but we needed all other customers to manually update these IPs in the DNS records at their host.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
