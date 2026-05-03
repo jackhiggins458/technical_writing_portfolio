@@ -1,21 +1,21 @@
 # DNS record change guide
 
-*Where to view this portfolio piece: on this page.*
+*Where to view this portfolio piece: down below.*
 
 ---
 
-I previously worked in the support at [Fastmail](https://www.fastmail.com/), where a big part of my role was ensuring customers had access to accurate, timely and accessible information about Fastmail services and products. While Fastmail is primarily an email service, thousands of customers also use Fastmail to host websites. 
+I previously worked in support at [Fastmail](https://www.fastmail.com/), where a big part of my role was ensuring customers had access to accurate and accessible information about Fastmail services and products. While Fastmail is primarily an email service, thousands of customers also use Fastmail to host websites.
 
-At one point, Fastmail engineers were making some configuration changes to the networks responsible for hosting user websites, which would cause the IP addresses that customers were using to host their websites on to change. While we could manage the required changes internally for users hosting their DNS records at Fastmail, users that were hosting their DNS records externally would need to make changes on their end.
+Fastmail engineers were making changes to the network configuration that would cause the IP addresses that were used to host customer websites to change. While we could manage the required changes internally for users hosting their DNS records at Fastmail, we needed users that were hosting their DNS records externally to make changes on their end.
 
-To faciliate this, I wrote guides to outline the specific steps customers would need to take to ensure their websites remained online. Configuing DNS records can be tricky at the best of times, and from experience I knew that the processes and terminology used typically varied between DNS hosts. So, instead of providing a generic set of instructions, I analysed the DNS records of affected customers to identify the most commonly used DNS hosts, and then worked through and documented the steps for making the required changes for the most popular hosts.
+To facilitate this, I wrote a step-by-step how-to guide for the required updates to customer DNS records. Configuring DNS records can be tricky at the best of times, and from experience I knew that the processes and terminology used typically varied between DNS hosts. So, instead of providing a generic set of instructions, I analysed the DNS records of affected customers to identify the eight most commonly used DNS hosts, and then worked through and documented the steps for making the required changes for each host.
 
-These guides, sent out to thousands of customers, were successfully followed, with over 90% of customers making the required change without any additional support.
+This provider-specific approach proved highly effective: when we sent these customized guides to thousands of customers, over 90% successfully made the required changes without additional support.
 
-Here's a (redacted) version of the guide I wrote that was sent to a customer. This particular message was sent to a customer with:
+Here's a (redacted) version of the guide I wrote that was sent to customers. This particular message was sent to customers with:
 
 - Only one website hosted at Fastmail.
-- Their DNS hosted by Cloudflare.
+- DNS records hosted by Cloudflare.
 
 ---
 

@@ -4,20 +4,14 @@
 
 ---
 
-While working at Fastmail, I was also responsible for documenting features in our user-facing help center/knowledge base.
+While working at Fastmail, I was responsible for documenting features in our user-facing help center. This article on "Custom swipes" showcases my approach to effective documentation: start with context (what, who, why), make instructions scannable and actionable, then provide deeper reference material for those who want it.
 
-In one instance, I documented the "Custom swipes" feature. This article demonstrates nicely how I like to approach documentation:
+For the Custom swipes article, this meant:
 
-- Start with a brief **explanation** of the what, who and why: 
-	- What are "custom swipes"? 
-	- Who is this relevant to?
-	- Why might you use them? 
-- Make the **how-to** highly visible and clear yet concise.
-- Provide additional **reference** material for those interested in learning more.
+- Leading with context to help readers quickly assess relevance: what custom swipes are, who they're for (mobile users), and why they matter (workflow customization).
+- Making the how-to scannable through an inline table of contents, clear headings, and direct links to the exact settings location in the product
+- Keeping instructions concise by breaking out swipe actions available into a dedicated section.
 
-In this article, I started with a brief explanation of what custom swipes are (a feature that "allow(s) you to quickly take actions on emails in your message list"), who it's relevant to (people who use Fastmail on mobile/touch screen devices) and why you might use them (to customise your workflow/take quick action on messages in the message list). Providing an explanation upfront frames the article from the start, and allows a reader to quickly decide if the information in the article will be relevant to them.
-
-The following "how-to" sections of the article are made visible though the use of an in-line table of contents and second level headings. I've tried to make them clear by noting, with a link, the exact place in the product that the relevant settings can be found. I've kept them concise by separating out the specific actions available into their own sections.
-
+Support tickets about custom swipes showed that users primarily struggled with two things: finding the settings and understanding which actions were available. I addressed both by including direct links to the exact settings location and separating each swipe action into its own clearly-labeled bullet point.
 
 ---

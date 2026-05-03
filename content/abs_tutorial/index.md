@@ -8,12 +8,12 @@
 
 
 
-At the ABS, I was an active member of the Machine Learning (ML) Community of Practice, a group open to all staff interested in learning about ML. At the time, there was an increase in the use of ML methods within the organisation, and so we had a influx of staff joining the community, many of whom didn't have much experience with ML. To help upskill new community members, three colleagues and I organised a series of introductory ML talks and tutorials. 
+At the ABS, I was an active member of the Machine Learning (ML) Community of Practice, a group open to all staff interested in learning about ML. At the time, there was an increase in the use of ML methods within the organisation, and so we had an influx of staff joining the community, many of whom didn't have much experience with ML. To help upskill new community members, three colleagues and I organised a series of introductory ML talks and tutorials. 
 
-While my colleagues worked on talks, I wanted facilitate a more interactive learning experience. To do so, I created a series of tutorials in a Jupyter Lab environment that aimed to introduce attendees to:
+While my colleagues worked on talks, I wanted to facilitate a more interactive learning experience. To do so, I created a series of tutorials in a Jupyter Lab environment that aimed to introduce attendees to:
 
 - Navigating computational notebook environments.
-- Programming fundamentals in the R.
+- Programming fundamentals in the R programming language.
 - Implementing and testing a very basic neural network.
 
 These tutorials were:
