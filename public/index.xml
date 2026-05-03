@@ -15,8 +15,15 @@
       <description>&lt;h1 id=&#34;exporter-analysis-methodology&#34;&gt;Exporter analysis methodology&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Where to view this piece: &lt;a href=&#34;https://www.abs.gov.au/methodologies/characteristics-australian-exporters-methodology/2019-20&#34;&gt;on the Australian Bureau of Statistics website&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;While I made time to work on learning material for the Machine Learning Community of Practice where I could, my day to day role as a data scientist at the Australian Bureau of Statistics more often involved analysis, reporting and documentation.&lt;/p&gt;
-&lt;p&gt;In one project, I was responsible for developing and documenting a new methodology for analysing Australian exporters. While in this case &lt;a href=&#34;https://www.abs.gov.au/statistics/economy/international-trade/characteristics-australian-exporters/latest-release&#34;&gt;the actual analysis of the data&lt;/a&gt; was left to subject matter experts in a different team, I built the data pipelines, designed the methodology and wrote the associated methodology report.&lt;/p&gt;</description>
+&lt;p&gt;Documentation was a large part of my role as an analyst at the Australian Bureau of Statistics. In one project, I was responsible for developing and documenting a new methodology for analysing Australian exporter data. In this methodology article, which is a &lt;a href=&#34;https://www.abs.gov.au/statistics/economy/international-trade/characteristics-australian-exporters/2019-20&#34;&gt;companion piece to the main analysis article&lt;/a&gt;, I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documented key concepts and definitions.&lt;/li&gt;
+&lt;li&gt;Highlighted when methods used in this analysis differed from methods used in previous analyses.&lt;/li&gt;
+&lt;li&gt;Detailed what data sources were used, and, where necessary, why they were chosen.&lt;/li&gt;
+&lt;li&gt;Met quality declaration requirements, as required by the Bureau&amp;rsquo;s publishing framework.&lt;/li&gt;
+&lt;li&gt;Followed ABS style guidelines.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Subject matter experts were the primary audience for this report, so I dove deep into the technical concepts and definitions. However, we expected that some readers in trade statistics space would have less expertise in this area, so I attempted to provide enough context to make the report accessible to a wider range of professionals.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
