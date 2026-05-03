@@ -2,7 +2,7 @@
 
 You've stumbled upon my technical writing portfolio. Welcome! 
 
-I'm Jack (they/them). I've spent the last five years working across data and SaaS support. While I've never been a technical writer by title, I've constantly found myself gravitating toward and enjoying the art of documentation. 
+I'm Jack (they/them). I've spent the last five years working across data and SaaS support. While I've never been a technical writer by title, I've constantly found myself gravitating toward and enjoying the process of documenting things.
 
 I care about making information as accessible as possible to those who need it. I approach documentation, and information architecture more broadly, using the [diátaxis approach](https://diataxis.fr/): what we choose to document, and how we choose to do so, should be guided by user need.
 
